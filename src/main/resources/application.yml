@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: PureTech
+
+server:
+  port: 8090
+
+logging:
+  level:
+    root: INFO
+    com.purelearning: DEBUG
