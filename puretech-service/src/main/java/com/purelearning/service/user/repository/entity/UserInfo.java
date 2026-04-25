@@ -1,4 +1,4 @@
-package com.purelearning.service.user.entity;
+package com.purelearning.service.user.repository.entity;
 
 import com.baomidou.mybatisplus.annotation.TableName;
 import com.purelearning.api.entity.BaseDO;
